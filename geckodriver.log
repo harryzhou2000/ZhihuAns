@@ -1,0 +1,21 @@
+1651430931893	geckodriver	INFO	Listening on 127.0.0.1:64731
+1651430935009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\HARRYZ~1\\AppData\\Local\\Temp\\rust_mozprofileSOP6Xd"
+1651430935475	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HARRYZ~1\\AppData\\Local\\Temp\\rust_mozprofileSOP6Xd\\search.json.mozlz4", (void 0)))
+1651430938118	Marionette	INFO	Listening on port 64758
+Read port: 64758
+1651430938235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.4aebd0d06b6898c2e8ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.4aebd0d06b6898c2e8ce.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.4aebd0d06b6898c2e8ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.4aebd0d06b6898c2e8ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.4aebd0d06b6898c2e8ce.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/main.zswsdid.4aebd0d06b6898c2e8ce.js, line 1: WebGL context was lost.
+JavaScript error: https://pss.bdstatic.com/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1651431004921	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://aeu.alicdn.com/waf/antidomxss_v640.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pagead2.googlesyndication.com/bg/e8WcSG94vkM93ke5SjF29cSEjmyq7vfry6EL03wtuS4.js line 1 > eval line 3583 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
